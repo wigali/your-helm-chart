@@ -1,9 +1,9 @@
-image:
-  repository: wilsonggr/my-spring-boot-app
-  tag: 2.0
 #image:
-#  repository: quay.io/wigali/my-spring-boot-app
-#  tag: 2.0
+  #repository: wilsonggr/my-spring-boot-app
+  #tag: latest
+image:
+  repository: docker.io/wilsonggr/my-spring-boot-app
+  tag: 2.0
 
 service:
   type: ClusterIP
