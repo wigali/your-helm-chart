@@ -3,7 +3,7 @@
   #tag: latest
 image:
   repository: docker.io/wilsonggr/my-spring-boot-app
-  tag: 2.0
+  tag: v3
 
 service:
   type: ClusterIP
