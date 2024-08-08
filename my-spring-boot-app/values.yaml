@@ -1,9 +1,9 @@
-image:
-  repository: docker.io/wilsonggr/my-spring-boot-app
-  tag: latest
 #image:
-#  repository: docker.io/wilsonggr/my-spring-boot-app
-#  tag: v3
+  #repository: wilsonggr/my-spring-boot-app
+  #tag: latest
+image:
+  repository: wilsonggr/my-spring-boot-app
+  tag: v3
 
 service:
   type: ClusterIP
